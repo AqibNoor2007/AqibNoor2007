@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="aqibnoor2007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqibnoor2007" alt="aqibnoor2007" /></a> </p>
 
 - 🔭 I worked on [Midlynk](https://app.midlynk.com/jobs/listing)
 
